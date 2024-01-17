@@ -15,13 +15,7 @@ Welcome to the official GitHub repository for the "Building a Full Stack App wit
 2. Follow along with the tutorial video as you navigate through the different sections of the codebase.
 3. Experiment, modify, and extend the code to suit your own app development goals.
 
-## Resources
 
-- [Tutorial Video on YouTube](https://youtu.be/_LhSRbekY5k)
-- [Dart Official Website](https://dart.dev)
-- [Flutter Official Website](https://flutter.dev)
-- [Melos Documentation](https://melos.invertase.dev/~melos-latest)
-- [Dart Frog Guide](https://dartfrog.vgv.dev/)
 
 ## Contribute
 
